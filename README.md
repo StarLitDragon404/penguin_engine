@@ -11,3 +11,5 @@ a home-brew game engine
 2. go inside of penguin_engine directory
 3. create a new folder named 'bin'
 4. run 'setup_windows.bat' batch file
+
+All binaries will be found in the 'bin' folder you created
